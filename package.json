@@ -1,3 +1,10 @@
 {
-  "jquery":"1.8.3"
+  "name": "great-big-example-application",
+  "version": "0.0.1",
+  "description": "A collection of demos in one big example",
+  "private": true,
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "1.11.0"
+  }
 }
