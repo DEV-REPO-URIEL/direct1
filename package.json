@@ -6,6 +6,6 @@
   "license": "MIT",
   "dependencies": {
     "jquery": "2.2.0",
-    "electron":"23.1.1"
+    "electron":"24.8.3"
   }
 }
